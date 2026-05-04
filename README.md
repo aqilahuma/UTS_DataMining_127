@@ -1,7 +1,7 @@
-# UTS Data Mining - Prediksi Kualitas Anggur
+UTS Data Mining - Prediksi Kualitas Anggur
 
-## Nama: [Isi Nama]
-## NIM: [Isi NIM]
+## Nama: Mufida Aqila Humaidah
+## NIM: 2304020127
 
 ### Deskripsi
 Tugas ini bertujuan untuk membangun model klasifikasi untuk memprediksi kualitas anggur berdasarkan fitur kimiawi.
